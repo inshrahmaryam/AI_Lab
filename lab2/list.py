@@ -22,3 +22,7 @@ for i in range(1,4):
     List.append(List2)
     print("\nList after addition of a list:")
     print(List)
+
+    List3=["hello","ladies"]
+    List3.insert(0,9976)
+    print(List3)
